@@ -1,0 +1,2 @@
+1. A better loss function that penalizes data range inconsistency.
+2. Multiclass hologram classification (maybe using synthetic dataset).
